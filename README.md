@@ -20,7 +20,9 @@ A customizable OTP input widget for Flutter with automatic OTP autofill support.
 
 ## Preview
 
-![Flutter OTP Box Demo](example/assets/demo.gif)
+<p align="center">
+  <img src="example/assets/demo.gif" width="250">
+</p>
 
 ## Installation
 
